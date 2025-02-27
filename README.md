@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Francesco Banelli
-- 🌱 I study Automation Engineering at Politecnico di Milano
-- 👀 I’m passionate about robotics, drones, and autonomous systems
+- 🌱 I study Robotics, Systems and Control at ETH Zurich
+- 👀 I’m passionate about robotics, ML,and control systems
 
 
 <!---
